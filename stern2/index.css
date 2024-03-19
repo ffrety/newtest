@@ -2,11 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background: linear-gradient(90deg,#979797, #00266D)
 }
 
-header, footer, article {
+footer, article {
     padding: 20px;
-    background-color: #f0f0f0;
+
 }
 footer{
 background-color: gray;
@@ -26,8 +27,11 @@ img {
     height: 5%;
 }
 
+section {
+}
 form {
     margin-top: 20px;
+
 }
 
 label {
